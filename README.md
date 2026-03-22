@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Lara Abu Asfour 👋
 
-<!--
-**laraabuasfour/laraabuasfour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Fourth-year Computer Systems Engineering student at Birzeit University.
 
-Here are some ideas to get you started:
+💡 I am interested in technology, problem solving, and continuously learning new fields.  
+I enjoy working on projects that combine software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- C++
+- Python
+- Verilog
+- Artificial Intelligence
+- Problem Solving
+- Embedded Systems
+
+---
+
+## 📌 Projects
+Some of the projects I have worked on:
+
+- 6-bit Comparator implemented using logic gates in Verilog
+- Robotics and hardware interfacing projects
+- Artificial Intelligence applications using Python
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/lara-abu-asfour-616114349
+- Email: larasaleh639@gmail.com
