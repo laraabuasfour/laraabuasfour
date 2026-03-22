@@ -14,6 +14,7 @@ I enjoy working on projects that combine software and hardware.
 - Artificial Intelligence
 - Problem Solving
 - Embedded Systems
+- C
 
 ---
 
