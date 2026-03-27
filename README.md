@@ -1,15 +1,12 @@
-# 👩‍💻 Lara Abu Asfour
+#  Lara Abu Asfour
 
-### 🚀 Computer Systems Engineering Student | AI | Embedded Systems | Software Engineering
+### Computer Systems Engineering Student | AI | Embedded Systems | Software Engineering
 
 ---
 
 ## 🧑‍💼 About Me
 
-🎓 Fourth-year Computer Systems Engineering student at Birzeit University
-💡 Passionate about building real-world systems combining **software, hardware, and AI**
-⚡ Strong focus on **performance, optimization, and problem solving**
-
+🎓 Fourth-year Computer Systems Engineering student at Birzeit University Passionate about building real-world systems combining **software, hardware, and AI
 ---
 
 ## 🛠️ Tech Stack
@@ -111,21 +108,7 @@ Enhanced Pan-Tompkins algorithm for biomedical signal processing
 
 ---
 
-## 📊 GitHub Stats
-
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: [larasaleh639@gmail.com](mailto:larasaleh639@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/lara-abu-asfour-616114349
-
----
-
-## ⚡ Motto
-
-> I build systems that solve real problems — efficiently and intelligently.
