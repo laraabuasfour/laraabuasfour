@@ -6,7 +6,7 @@
 
 ##  About Me
 
-🎓 Fourth-year Computer Systems Engineering student at Birzeit University Passionate about building real-world systems combining software, hardware, and AI
+Fourth-year Computer Systems Engineering student at Birzeit University Passionate about building real-world systems combining software, hardware, and AI
 ---
 
 ## 🛠️ Tech Stack
