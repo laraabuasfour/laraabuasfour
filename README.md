@@ -1,11 +1,11 @@
 
-# 👩‍💻 Lara Abu Asfour
+# Lara Abu Asfour
 
 ### Computer Systems Engineering Student | AI | Embedded Systems | Software Engineering
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Final-year **Computer Systems Engineering** student at **Birzeit University**, passionate about **Software Engineering, Artificial Intelligence, and Embedded Systems**.
 
